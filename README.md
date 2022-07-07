@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Magomarele West, Call me Westy😁
-- 👀 I’m interested in all thing Computer Software 😊
+- 👀 interested in all things Computer Software😊
 - 🌱 I’m currently studying Information Systems Development 
+- 🤪 Current addiction : Complexity🥴
 - 📫 Contact: westmphahlele.mw@gmail.com 
 
 <!---
