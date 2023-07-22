@@ -1,11 +1,15 @@
-- 👋 Hi, I’m Magomarele West, Call me Westy😁
-- 👀 interested in all things Computer Software😊
-- 🌱 currently a 3rd year student studying Information Systems
-     Development. 
-- 🤪 Current addiction : Complexity🥴
-- 📫 Contact: westmphahlele.mw@gmail.com 
+# <span style="color:#4CAF50;">👋 Hi there, I’m Magomarele West, but you can call me Westy!</span> 😁
 
-<!---
-Westy21/Westy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<span style="color:#03A9F4;">🔭 Interested in all things Computer Software</span> 😊
+<span style="color:#FF9800;">🌱 An Information Systems Development Graduate from Boston City Campus (Class of 2022).</span> 🎓
+<span style="color:#E91E63;">💻 Current addiction: Complexity</span> 🥴
+
+### <span style="color:#4CAF50;">🚀 Technologies and Skills</span>
+
+- **Programming Languages:** Java, Python, JavaScript
+- **Web Development:** HTML, CSS, React, Flask
+- **Database:** SQL, MongoDB, MySQL
+- **Version Control:** Git, GitHub
+- **Agile Development and Scrum**
+
+📫 **Contact:** westmphahlele.mw@gmail.com
