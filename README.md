@@ -1,4 +1,4 @@
-# <span style="color:#4CAF50;">👋 Hi there, I’m Magomarele West, but you can call me Westy!</span> 😁
+# <span style="color:#4CAF50;">👋 Hi there! its Westy!</span> 😁
 
 <span style="color:#03A9F4;">🔭 Interested in all things Computer Software</span> 😊
 <span style="color:#FF9800;">🌱 An Information Systems Development Graduate from Boston City Campus (Class of 2022).</span> 🎓
