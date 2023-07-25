@@ -6,8 +6,8 @@
 
 ### <span style="color:#4CAF50;">🚀 Technologies and Skills</span>
 
-- **Programming Languages:** Java, Python, JavaScript
-- **Web Development:** HTML, CSS, React, Flask
+- **Programming Languages:** Java, Python, JavaScript, C++, C, PHP
+- **Web Development:** HTML, CSS, React, Flask, Django
 - **Database:** SQL, MongoDB, MySQL
 - **Version Control:** Git, GitHub
 - **Agile Development and Scrum**
