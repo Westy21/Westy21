@@ -2,7 +2,8 @@
 
 <span style="color:#03A9F4;">🔭 Interested in all things Computer Software</span> 😊
 <span style="color:#FF9800;">🌱 An Information Systems Development Graduate from Boston City Campus (Class of 2022).</span> 🎓
-<span style="color:#E91E63;">💻 Current addiction: Complexity</span> 🥴
+<span style="color:#E91E63;">💻 Current addiction: Complexity</span> 🥴 
+#### Available for HIRE!
 
 ### <span style="color:#4CAF50;">🚀 Technologies and Skills</span>
 
