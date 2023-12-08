@@ -1,16 +1,33 @@
-# <span style="color:#4CAF50;">👋 Hi there! its Westy!</span> 😁
+<h2 align="left">Hi 👋! My name is Mphahlele West and I'm an Information System Graduate.</h2>
 
-<span style="color:#03A9F4;">🔭 Interested in all things Computer Software</span> 😊
-<span style="color:#FF9800;">🌱 An Information Systems Development Graduate from Boston City Campus (Class of 2022).</span> 🎓
-<span style="color:#E91E63;">💻 Current addiction: Complexity</span> 🥴 
-#### Available for HIRE!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### <span style="color:#4CAF50;">🚀 Technologies and Skills</span>
+###
 
-- **Programming Languages:** Java, Python, JavaScript, C++, C, PHP
-- **Web Development:** HTML, CSS, React, Flask, Django
-- **Database:** SQL, MongoDB, MySQL
-- **Version Control:** Git, GitHub
-- **Agile Development and Scrum**
 
-📫 **Contact:** westmphahlele.mw@gmail.com
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+
+
