@@ -16,5 +16,11 @@ I have experience working on personal projects and as a freelancer, here are som
 
 - <img src="https://img.shields.io/badge/Python | Javascript--white?labelColor=black" alt="Python and Javascript"> <img src="https://img.shields.io/badge/Machine Learning -grey" alt="Machine Learning">
 
-In general terms, I have 3 years of experience with Python, Java and Javascript ecosystems and 1 with TypeScript.
+In general terms, I have 3 years of experience with Python, Java and Javascript ecosystems and 1 with TypeScript. Other technologies i use daily include:
+1. Linux
+2. Jenkins
+3. Neovim and VS Code
+4. Git and Github
+
+NEVER STOP LEARNING!
 
