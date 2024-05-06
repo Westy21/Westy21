@@ -20,7 +20,7 @@ In general terms, I have 3 years of experience with Python, Java and Javascript 
 1. Linux
 2. Jenkins
 3. Neovim and VS Code
-4. Git and Github
+4. Git
 
 NEVER STOP LEARNING!
 
