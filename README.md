@@ -1,5 +1,5 @@
 
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/Westy21/Westy21/assets/106932588/9208b6c9-c957-49be-8a99-e9a6fdb4f273)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/Westy21/Westy21/assets/106932588/c6ef4d22-8361-4ab8-87de-ac9648f878bd)
 
 <h3>ABOUT ME</h3>
 
