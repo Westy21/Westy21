@@ -16,11 +16,30 @@ I have experience working on personal projects and as a freelancer, here are som
 
 - <img src="https://img.shields.io/badge/Python | Javascript--white?labelColor=black" alt="Python and Javascript"> <img src="https://img.shields.io/badge/Machine Learning -grey" alt="Machine Learning">
 
-In general terms, I have 3 years of experience with Python, Java and Javascript ecosystems and 1 with TypeScript. Other technologies i use daily include:
-1. Linux
-2. Jenkins
-3. Neovim and VS Code
-4. Git
+**Experience:**
+
+- ![Python - 3 years](https://img.shields.io/badge/Python%20-%203%20years-white?labelColor=black)
+- ![Java - 3 years](https://img.shields.io/badge/Java%20-%203%20years-white?labelColor=black)
+- ![Javascript - 3 years](https://img.shields.io/badge/Javascript%20-%203%20years-white?labelColor=black)
+- ![TypeScript - 1 year](https://img.shields.io/badge/TypeScript%20-%201%20year-white?labelColor=black)
+
+**Technologies I use daily:**
+
+1. ![Linux](https://img.shields.io/badge/Linux-white?labelColor=black)
+2. ![Jenkins](https://img.shields.io/badge/Jenkins-white?labelColor=black)
+3. ![Neovim & VS Code](https://img.shields.io/badge/Neovim%20%26%20VS%20Code-white?labelColor=black)
+4. ![Git](https://img.shields.io/badge/Git-white?labelColor=black)
+
+**Currently learning:**
+
+1. ![Bash scripting](https://img.shields.io/badge/Bash%20scripting-white?labelColor=black)
+2. ![Zig Programming language](https://img.shields.io/badge/Zig%20Programming%20language-white?labelColor=black)
+
+**Upcoming projects:**
+
+1. ![A goal getter voice AI assistant | python](https://img.shields.io/badge/A%20goal%20getter%20voice%20AI%20assistant%20%7C%20python-white?labelColor=black)
+2. ![Personal ftp server | zig](https://img.shields.io/badge/Personal%20ftp%20server%20%7C%20zig-white?labelColor=black)
+
 
 NEVER STOP LEARNING!
 
