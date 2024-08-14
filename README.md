@@ -13,13 +13,6 @@ I have gained experience through personal projects and freelancing, utilizing va
 - ![Front-end with TypeScript and SCSS](https://img.shields.io/badge/TypeScript%20%7C%20SCSS-Front--end-white?labelColor=black) ![Next.js (React), Tailwind CSS](https://img.shields.io/badge/-Next.js%20(React)%20--%20Tailwind%20CSS-grey)
 - ![Python and Javascript](https://img.shields.io/badge/Python%20%7C%20Javascript-white?labelColor=black) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-grey)
 
-**Experience:**
-
-- ![Python - 3 years](https://img.shields.io/badge/Python%20-%203%20years-white?labelColor=black)
-- ![Java - 3 years](https://img.shields.io/badge/Java%20-%203%20years-white?labelColor=black)
-- ![Javascript - 3 years](https://img.shields.io/badge/Javascript%20-%203%20years-white?labelColor=black)
-- ![TypeScript - 1 year](https://img.shields.io/badge/TypeScript%20-%201%20year-white?labelColor=black)
-
 **Technologies I use daily:**
 
 - ![Linux](https://img.shields.io/badge/Linux-white?labelColor=black)
